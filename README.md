@@ -9,7 +9,7 @@ Hypertext Markup Language (HTML) gives the content structure basically the frame
 Cascading Style Sheets (CSS), lets you add your style to the content.
 JavaScript (JS), handles logic and functions which makes interactions possible.
 - Ive also learn some of the basics to using GitBash, VS Code and Github.
-
+- link to my prework web page: https://xkranze.github.io/prework-study-guide/
 ## Installation
 
 "N/A""
